@@ -25,6 +25,6 @@ pyfakefs = "==4.4.0"
 pylint = "~=2.4"
 selenium = "==3.141.0"
 twine = "*"
-WebTest = "==2.0.23"
+WebTest = "==3.0.0"
 yapf = "==0.22.0"
 
